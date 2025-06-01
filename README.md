@@ -1,16 +1,26 @@
-# myapp
+# Calculator 
 
-A new Flutter project.
 
-## Getting Started
+# How to Run the Flutter TV Calculator App On VSCode
 
-This project is a starting point for a Flutter application.
+1. **Clone the repo:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/yourusername/flutter_tv_calculator.git
+   cd flutter_tv_calculator
+   ```
+2. **Get dependencies**
+   ```bash
+   flutter pub get
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Choose Android TV as target Device and start the emulator**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **Run**
+   ```bash
+   flutter run
+   ```
+
+   
+
+   
