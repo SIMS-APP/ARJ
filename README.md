@@ -3,6 +3,8 @@
 
 # How to Run the Flutter TV Calculator App On VSCode
 
+Prerequisite: Android TV emulator must be installed in Android Studio SDK
+
 1. **Clone the repo:**
 
    ```bash
