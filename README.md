@@ -8,8 +8,8 @@ Prerequisite: Android TV emulator must be installed in Android Studio SDK
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/flutter_tv_calculator.git
-   cd flutter_tv_calculator
+   git clone https://github.com/SIMS-APP/ARJ
+   cd ARJ
    ```
 2. **Get dependencies**
    ```bash
